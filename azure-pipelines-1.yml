@@ -60,7 +60,7 @@ steps:
     script: |
 
 
-      print('Hello world 1')
+      print('welcome to Anooja')
 
 
       print('KLU')
